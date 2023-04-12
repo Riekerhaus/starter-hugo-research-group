@@ -9,34 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Kontakt
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: riekerhaus@gmail.com
+  phone: +49 6068 xxxx
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Siefertsweg 6
+    city: Oberzent
+    region: Hessen
+    postcode: '64760'
+    country: Germany
+    country_code: DE
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
+    latitude: '49.56697646625127'
+    longitude: '8.93611462958639'
+  directions: Parkplätze finden Sie direkt vor dem Haus
 
   # Automatically link email and phone or display as text?
   autolink: true
