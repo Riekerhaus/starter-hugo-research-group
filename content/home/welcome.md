@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Ferienhaus - Rieker
 headless: true
-weight: 10
+weight: 20
 title: Ferienhaus - Rieker
 hero_media: welcome.jpg
 design:
