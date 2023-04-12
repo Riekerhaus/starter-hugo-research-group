@@ -10,5 +10,5 @@ design:
   css_style: null
   css_class: null
   background:
-    image: img-20230410-wa0000.jpg
+    image: ""
 ---
